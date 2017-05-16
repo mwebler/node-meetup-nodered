@@ -1,0 +1,17 @@
+[
+    "index.md",
+    "o-problema.html",
+    "sobre-o-node-red.html",
+    {
+        "attr": {
+            "data-background": "resources/sample.png"
+        }
+    },
+    "criando-sua-aplicacao.html",
+    "instalando-novos-nodes.html",
+    "criando-seus-proprios-nodes.md",
+    "criando-seus-proprios-nodes-2.md",
+    "deploy.html",
+    "outros-projetos.md",
+    "obrigado.md"
+]
