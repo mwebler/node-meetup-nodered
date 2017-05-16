@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Conectando APIs, serviços e IoT com Node-RED",
+    "packageVersion": "0.0.1",
+    "revealTheme": "moon",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "mwebler",
+    "githubRepository": "node-meetup-nodered"
+  }
+}
